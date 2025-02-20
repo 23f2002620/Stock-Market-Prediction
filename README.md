@@ -6,7 +6,6 @@ This repository contains code and notebooks for stock market prediction techniqu
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Dataset](#dataset using various machine learning and deep learning techniques.
 
 ## Overview
 
