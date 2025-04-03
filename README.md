@@ -6,14 +6,7 @@ This repository contains code and notebooks for stock market prediction techniqu
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Usage](#usage)
-
-## Overview
-
-The goal of this project is to predict stock market trends using historical data)
-- [Model](#model)
-- [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction. The project utilizes Jupyter Notebooks for data analysis and model building.
 
@@ -62,6 +55,3 @@ This project aims to predict stock market trends usingbash
 
 Contributions are welcome! Please open an issue or submit a pull request for any changes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
